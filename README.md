@@ -38,5 +38,4 @@ Agradecemos al equipo de desarrollo de Pet Inn y a todos aquellos que contribuye
 
 
 ## Concepto e idea del proyecto 
-## Concepto e idea del proyecto 
-![Casa-Habitación](descargas/"D:\Usuarios\pamab\Downloads\Idea y proceso\Idea ExpoCenfo.jpg")
+![Casa-Habitación](Downloads\Idea y proceso\Idea ExpoCenfo.jpg")
