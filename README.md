@@ -35,3 +35,7 @@ Nuestro objetivo es brindar a los dueños de mascotas la seguridad de que sus pe
 **Agradecimientos:**
 
 Agradecemos al equipo de desarrollo de Pet Inn y a todos aquellos que contribuyen a hacer de este proyecto una realidad. ¡Esperamos que Pet Inn se convierta en la elección preferida para aquellos que buscan lo mejor para sus adorables compañeros peludos!
+
+
+## Concepto e idea del proyecto 
+[Casa-Habitación inteligente del hotel](https://raw.github.com/Gaby790/PetSuite-CodeCrafter/blob/main/Idea%20y%20proceso/Idea%20ExpoCenfo.jpg)
