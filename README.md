@@ -38,4 +38,5 @@ Agradecemos al equipo de desarrollo de Pet Inn y a todos aquellos que contribuye
 
 
 ## Concepto e idea del proyecto 
-[Casa-Habitación inteligente del hotel](https://raw.github.com/Gaby790/PetSuite-CodeCrafter/blob/main/Idea%20y%20proceso/Idea%20ExpoCenfo.jpg)
+## Concepto e idea del proyecto 
+![Casa-Habitación](descargas/"D:\Usuarios\pamab\Downloads\Idea y proceso\Idea ExpoCenfo.jpg")
