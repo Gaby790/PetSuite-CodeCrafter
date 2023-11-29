@@ -42,3 +42,26 @@ Agradecemos al equipo de desarrollo de Pet Inn y a todos aquellos que contribuye
 
 ## idea de pechera de Monitoreo
 ![Pechera](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/pechera.jpg)
+
+## sensores utilizados
+[Press/Hum/Tem/Gas](https://www.crcibernetica.com/environmental-sensor-bme688-stemma-qt/)
+![BME688 Environmental Sensor](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/BME688.jpg)
+
+
+[MSA311 Triple-Axis Accelerometer](https://www.crcibernetica.com/msa311-triple-axis-accelerometer-stemma-qt-qwiic/)
+![MSA311 Triple-Axis Accelerometer](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/MSA311.jpg)
+
+
+[AHT20 Temperature Humidity Sensor](https://www.crcibernetica.com/aht20-temperature-humidity-sensor-breakout-board-stemma-qt-qwiic/)
+![AHT20 Temperature Humidity Sensor](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/AHT20.jpg)
+
+
+[Cables conexión](https://www.crcibernetica.com/stemma-qt-qwiic-jst-sh-4-pin-cable-20cm/)
+![ST-Link V2](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/ST-Link%20V2.jpg)
+
+[PIR Motion Sensor Module](https://www.crcibernetica.com/pir-motion-sensor-module/)
+![PIR Motion Sensor Module](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/PIR%20Motion%20Sensor%20Module.jpg)
+
+
+[2x2 NeoPixel RGB LED Matrix Board](https://www.crcibernetica.com/2-x-2-neopixel-rgb-led-matrix-board/)
+![Neopixel](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/2x2%20NeoPixel%20RGB%20LED%20Matrix%20Board.jpg)
