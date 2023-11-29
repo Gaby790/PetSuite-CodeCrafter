@@ -38,4 +38,5 @@ Agradecemos al equipo de desarrollo de Pet Inn y a todos aquellos que contribuye
 
 
 ## Concepto e idea del proyecto 
-![Casa-Habitación](Idea ExpoCenfo.jpg")
+![Casa-Habitación](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/Idea%20ExpoCenfo.jpg)
+
