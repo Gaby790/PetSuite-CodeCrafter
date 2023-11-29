@@ -59,6 +59,24 @@ Descripción: El acelerómetro MSA311 mide la aceleración en tres ejes, brindan
 ![BME688 Environmental Sensor](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/BME688.jpg)
 
 Descripción: El sensor BME688 ofrece lecturas precisas de temperatura, humedad, presión y calidad del aire, asegurando un ambiente óptimo para las mascotas.
+`while True:
+    
+    # Read sensor data
+    Temperature = sensor.temperature
+    Gas = sensor.gas
+    Humidity = sensor.humidity
+    Pressure = sensor.pressure
+    Altitude = sensor.altitude
+    Acelerometre = msa.acceleration
+    
+    # Print sensor data
+    print('Temperature: {} grados C'.format(Temperature))
+    print('Gas: {} Ohms'.format(Gas))
+    print('Humidity: {}%'.format(Humidity))
+    print('Pressure: {}hPa'.format(Pressure))
+    print("Altitude = %0.2f metros" % Altitude)
+    print('-------------------------------------------------------')
+    time.sleep(1)`
 
 ### 4. PIR Motion Sensor Module
 ![PIR Motion Sensor Module](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/PIR%20Motion%20Sensor%20Module.jpg)
