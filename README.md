@@ -43,25 +43,34 @@ Agradecemos al equipo de desarrollo de Pet Inn y a todos aquellos que contribuye
 ## idea de pechera de Monitoreo
 ![Pechera](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/pechera.jpg)
 
-## sensores utilizados
-[Press/Hum/Tem/Gas](https://www.crcibernetica.com/environmental-sensor-bme688-stemma-qt/)
-![BME688 Environmental Sensor](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/BME688.jpg)
+## Sensores Utilizados
 
-
-[MSA311 Triple-Axis Accelerometer](https://www.crcibernetica.com/msa311-triple-axis-accelerometer-stemma-qt-qwiic/)
-![MSA311 Triple-Axis Accelerometer](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/MSA311.jpg)
-
-
-[AHT20 Temperature Humidity Sensor](https://www.crcibernetica.com/aht20-temperature-humidity-sensor-breakout-board-stemma-qt-qwiic/)
+### 1. AHT20 Temperature Humidity Sensor
 ![AHT20 Temperature Humidity Sensor](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/AHT20.jpg)
 
+Descripción: El sensor AHT20 proporciona mediciones precisas de temperatura y humedad, esencial para garantizar el confort de las mascotas.
 
-[Cables conexión](https://www.crcibernetica.com/stemma-qt-qwiic-jst-sh-4-pin-cable-20cm/)
-![ST-Link V2](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/ST-Link%20V2.jpg)
+### 2. MSA311 Triple-Axis Accelerometer
+![MSA311 Triple-Axis Accelerometer](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/MSA311.jpg)
 
-[PIR Motion Sensor Module](https://www.crcibernetica.com/pir-motion-sensor-module/)
+Descripción: El acelerómetro MSA311 mide la aceleración en tres ejes, brindando información crucial sobre la actividad física de las mascotas durante su estancia.
+
+### 3. BME688 Environmental Sensor
+![BME688 Environmental Sensor](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/BME688.jpg)
+
+Descripción: El sensor BME688 ofrece lecturas precisas de temperatura, humedad, presión y calidad del aire, asegurando un ambiente óptimo para las mascotas.
+
+### 4. PIR Motion Sensor Module
 ![PIR Motion Sensor Module](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/PIR%20Motion%20Sensor%20Module.jpg)
 
+Descripción: El módulo PIR detecta movimientos, permitiendo un monitoreo eficiente de la actividad en la habitación de la mascota.
 
-[2x2 NeoPixel RGB LED Matrix Board](https://www.crcibernetica.com/2-x-2-neopixel-rgb-led-matrix-board/)
-![Neopixel](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/2x2%20NeoPixel%20RGB%20LED%20Matrix%20Board.jpg)
+### 5. ST-Link V2
+![ST-Link V2](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/ST-Link%20V2.jpg)
+
+Descripción: El programador ST-Link V2 es esencial para la configuración y programación de los dispositivos utilizados en el sistema PetSuite.
+
+### 6. 2x2 NeoPixel RGB LED Matrix Board
+![2x2 NeoPixel RGB LED Matrix Board](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/2x2%20NeoPixel%20RGB%20LED%20Matrix%20Board.jpg)
+
+Descripción: La matriz LED NeoPixel proporciona retroalimentación visual, creando una interfaz atractiva y personalizable para interactuar con el sistema.
