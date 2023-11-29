@@ -74,3 +74,18 @@ Descripción: El programador ST-Link V2 es esencial para la configuración y pro
 ![2x2 NeoPixel RGB LED Matrix Board](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Sensores/2x2%20NeoPixel%20RGB%20LED%20Matrix%20Board.jpg)
 
 Descripción: La matriz LED NeoPixel proporciona retroalimentación visual, creando una interfaz atractiva y personalizable para interactuar con el sistema.
+
+## Proceso
+![Usamos material mdf para la fabricacion de la casa](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/2tVNRwqQ1CE2ICc7k724zPKRstWjdCMN30NDjAyHHIA%3D_plaintext_638368303524903802.jpg)
+![Descripción de la Imagen](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/IMG-20231128-WA0039.jpg)
+![Descripción de la Imagen](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/IMG-20231128-WA0040.jpg)
+![Descripción de la Imagen](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/IMG-20231128-WA0042.jpg)
+![Descripción de la Imagen](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/IMG-20231128-WA0043.jpg)
+![Descripción de la Imagen](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/IMG-20231128-WA0044.jpg)
+
+## Resultados
+![Descripción de la Imagen](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/9BNYfrhKMljAMhrxbERolclB8E5IvO9ffr-sedOF_IA%3D_plaintext_638368303522606184.jpg)
+![Descripción de la Imagen](https://github.com/Gaby790/PetSuite-CodeCrafter/raw/main/Idea%20y%20proceso/IMG-20231128-WA0038.jpg)
+
+
+
